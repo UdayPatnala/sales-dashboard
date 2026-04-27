@@ -2,10 +2,50 @@ order_id,order_date,region,category,product,quantity,unit_price
 1001,2026-01-05,North,Electronics,Headphones,2,49.99
 1002,2026-01-08,South,Furniture,Office Chair,1,129.00
 1003,2026-01-12,West,Electronics,Keyboard,3,39.50
-1004,2026-02-02,East,Accessories,Mouse Pad,5,9.99
-1005,2026-02-10,North,Furniture,Desk,1,219.00
-1006,2026-02-17,South,Electronics,Monitor,2,179.00
-1007,2026-03-01,West,Accessories,USB Hub,4,19.00
-1008,2026-03-06,East,Electronics,Webcam,2,59.99
-1009,2026-03-19,North,Accessories,Laptop Stand,3,34.75
-1010,2026-03-24,South,Furniture,Bookshelf,1,149.00
+1004,2026-01-15,East,Accessories,Mouse Pad,5,9.99
+1005,2026-01-18,North,Furniture,Desk,1,219.00
+1006,2026-01-22,South,Electronics,Monitor,2,179.00
+1007,2026-01-25,West,Accessories,USB Hub,4,19.00
+1008,2026-01-28,East,Electronics,Webcam,2,59.99
+1009,2026-02-02,North,Accessories,Laptop Stand,3,34.75
+1010,2026-02-05,South,Furniture,Bookshelf,1,149.00
+1011,2026-02-08,West,Electronics,Mouse,6,24.99
+1012,2026-02-10,East,Accessories,Cable Organizer,8,7.50
+1013,2026-02-13,North,Electronics,Speaker,2,89.99
+1014,2026-02-16,South,Furniture,Filing Cabinet,1,179.00
+1015,2026-02-19,West,Accessories,Phone Stand,4,14.99
+1016,2026-02-22,East,Electronics,USB Microphone,1,129.00
+1017,2026-02-25,North,Furniture,Ergonomic Chair,1,349.00
+1018,2026-02-28,South,Electronics,Tablet Stand,3,29.99
+1019,2026-03-03,West,Accessories,Desk Mat,5,19.99
+1020,2026-03-05,East,Furniture,Standing Desk,1,449.00
+1021,2026-03-08,North,Electronics,Headphones,4,49.99
+1022,2026-03-10,South,Accessories,Wrist Rest,6,12.99
+1023,2026-03-13,West,Electronics,Monitor Arm,2,69.99
+1024,2026-03-16,East,Furniture,Side Table,2,79.00
+1025,2026-03-19,North,Accessories,Laptop Stand,3,34.75
+1026,2026-03-22,South,Electronics,Keyboard,5,39.50
+1027,2026-03-25,West,Furniture,Office Chair,2,129.00
+1028,2026-03-28,East,Electronics,Webcam,3,59.99
+1029,2026-03-30,North,Accessories,USB Hub,7,19.00
+1030,2026-04-01,South,Electronics,Speaker,2,89.99
+1031,2026-04-03,West,Furniture,Desk,1,219.00
+1032,2026-04-05,East,Accessories,Mouse Pad,10,9.99
+1033,2026-04-07,North,Electronics,Monitor,1,179.00
+1034,2026-04-09,South,Furniture,Bookshelf,2,149.00
+1035,2026-04-11,West,Electronics,Mouse,4,24.99
+1036,2026-04-13,East,Accessories,Phone Stand,6,14.99
+1037,2026-04-15,North,Furniture,Ergonomic Chair,1,349.00
+1038,2026-04-17,South,Electronics,USB Microphone,2,129.00
+1039,2026-04-19,West,Accessories,Cable Organizer,5,7.50
+1040,2026-04-20,East,Electronics,Tablet Stand,4,29.99
+1041,2026-01-10,North,Electronics,Monitor,1,179.00
+1042,2026-01-20,South,Accessories,Desk Mat,3,19.99
+1043,2026-02-07,West,Furniture,Standing Desk,1,449.00
+1044,2026-02-15,East,Electronics,Headphones,2,49.99
+1045,2026-03-01,North,Furniture,Office Chair,1,129.00
+1046,2026-03-12,South,Electronics,Keyboard,4,39.50
+1047,2026-03-20,West,Accessories,Wrist Rest,8,12.99
+1048,2026-04-02,East,Furniture,Desk,1,219.00
+1049,2026-04-10,North,Electronics,Webcam,3,59.99
+1050,2026-04-18,South,Accessories,Laptop Stand,5,34.75
