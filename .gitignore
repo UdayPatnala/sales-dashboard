@@ -11,4 +11,3 @@ env/
 .pytest_cache/
 .ipynb_checkpoints/
 .DS_Store
-artifacts/*.joblib
